@@ -11,11 +11,11 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Servlet implementation class Aj
+ * Update 2
  */
 @WebServlet("/Aj")
 public class Aj extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
     /**
      * @see HttpServlet#HttpServlet()
      */
